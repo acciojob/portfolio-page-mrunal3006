@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+#name{
+	background: pink
+}
+#skills{
+	background: lightpink;
+	border: solid ;
+	padding: 10px;
+}
+#projects{
+	background: lightcyan;
+	border: solid black;
+	padding: 10px;
